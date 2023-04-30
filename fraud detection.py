@@ -17,7 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 # In[2]:
 
 
-data = pd.read_csv(r"C:\Users\harsh\Desktop\asu\python\onlinefraud.csv")
+data = pd.read_csv(r"C:\Users\harsh\Desktop\asu\python\onlinefraud.csv")    #dataset from kaggle
 print(data.head())
 
 
